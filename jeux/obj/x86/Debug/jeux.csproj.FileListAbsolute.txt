@@ -1,0 +1,12 @@
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.Form1.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.Form2.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.Form3.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.Properties.Resources.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\bin\Debug\jeux.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\bin\Debug\jeux.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\jeux\jeux\obj\x86\Debug\jeux.Form4.resources
